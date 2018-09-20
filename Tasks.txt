@@ -1,0 +1,8 @@
+1. Create link collector, that will
+
+    a. open the document with link: url:txt, where
+        list of urls via coma separation
+
+    b. open web and collect all links on this page ->
+
+    c. include them in list of links.
